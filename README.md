@@ -1,4 +1,11 @@
-<img width="800" height="1000" alt="image" src="https://github.com/user-attachments/assets/780fbe4a-8892-4e7b-ad96-cd246c604886" />
+# AD.FOLIO Commerce Design Skill / 有料电商平面设计 Skill
+
+[简体中文](#简体中文) · [English](#english)
+
+![Editable product launch poster / 可编辑新品海报](examples/coffee-launch.svg)
+
+## 简体中文
+
 把 AD.FOLIO 网站的电商设计流程整理成一个可在 Codex 中使用的 Skill。给它商品图、用途和文案，它可以帮助选版式、组织卖点、做可编辑的设计，并核对导出的成品。支持商品主图、活动海报、商品详情页、店铺横幅，以及五页商品介绍套系。
 
 - **内容**：12 套免费模板和 66 套 STUDIO 模板的双语索引、10 类新作风格、画布与排版指南、图片格式和交付检查、可运行的原创 SVG 示例。

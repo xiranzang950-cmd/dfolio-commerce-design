@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" xml:lang="zh-CN" width="800" height="1000" viewBox="0 0 800 1000" role="img" aria-labelledby="design-title"><title id="design-title">把清晨，泡慢一点</title>
+<rect x="0" y="0" width="800" height="1000" fill="#f0daba" rx="0"/>
+<text x="44" y="54" fill="#171910" font-size="21.0" font-family="Arial, Microsoft YaHei, PingFang SC, sans-serif" text-anchor="start" font-weight="800">DAYBREAK COFFEE</text>
+<text x="756" y="54" fill="#171910" font-size="14.0" font-family="Consolas, Monaco, Microsoft YaHei, monospace" text-anchor="end" font-weight="400">COLD BREW / SAMPLE 01</text>
+<path d="M44 75H756" stroke="#171910" stroke-opacity=".42"/>
+<text x="44" y="156" fill="#171910" font-size="67.0" font-family="Arial, Microsoft YaHei, PingFang SC, sans-serif" text-anchor="start" font-weight="800">把清晨，泡慢一点</text>
+<text x="44" y="200" fill="#171910" font-size="24.0" font-family="Arial, Microsoft YaHei, PingFang SC, sans-serif" text-anchor="start" font-weight="400">A slower morning starts here.</text>
+<rect x="44" y="263" width="712" height="453" fill="#812b22" rx="18"/>
+<rect x="60" y="279" width="680" height="421" rx="10" fill="none" stroke="#fff7e7" stroke-opacity=".52" stroke-dasharray="5 7"/>
+<circle cx="400" cy="489.5" r="177" fill="#fff7e7" opacity=".12"/>
+<rect x="361" y="358.13" width="78" height="39.411" fill="#fff7e7" rx="6"/>
+<rect x="322" y="392.2862" width="156" height="228.5838" fill="#f0daba" rx="18"/>
+<rect x="334" y="486.87260000000003" width="132" height="63.0576" fill="#171910" rx="5"/>
+<text x="400" y="528.9110000000001" fill="#f0daba" font-size="19.0" font-family="Consolas, Monaco, Microsoft YaHei, monospace" text-anchor="middle" font-weight="400">SAMPLE</text>
+<text x="400" y="683" fill="#fff7e7" font-size="13.0" font-family="Consolas, Monaco, Microsoft YaHei, monospace" text-anchor="middle" font-weight="400">示意图 / SAMPLE</text>
+<rect x="73" y="292" width="151" height="36" fill="#f0daba" rx="18"/>
+<text x="148" y="316" fill="#171910" font-size="15.0" font-family="Arial, Microsoft YaHei, PingFang SC, sans-serif" text-anchor="middle" font-weight="700">冷萃新品 / NEW</text>
+<text x="44" y="818" fill="#171910" font-size="38.0" font-family="Arial, Microsoft YaHei, PingFang SC, sans-serif" text-anchor="start" font-weight="800">价格待确认</text>
+<text x="756" y="818" fill="#171910" font-size="19.7" font-family="Arial, Microsoft YaHei, PingFang SC, sans-serif" text-anchor="end" font-weight="700">了解新品 / Discover the launch</text>
+<path d="M44 893H756" stroke="#171910" stroke-opacity=".42"/>
+<text x="44" y="925" fill="#171910" font-size="20.0" font-family="Arial, Microsoft YaHei, PingFang SC, sans-serif" text-anchor="start" font-weight="700">适合冰饮</text>
+<text x="281.33333333333337" y="925" fill="#171910" font-size="20.0" font-family="Arial, Microsoft YaHei, PingFang SC, sans-serif" text-anchor="start" font-weight="700">风味待确认</text>
+<text x="518.6666666666667" y="925" fill="#171910" font-size="20.0" font-family="Arial, Microsoft YaHei, PingFang SC, sans-serif" text-anchor="start" font-weight="700">规格待确认</text>
+</svg>

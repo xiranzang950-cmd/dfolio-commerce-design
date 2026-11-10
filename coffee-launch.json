@@ -1,0 +1,14 @@
+{
+  "format": "promotion",
+  "locale": "zh-CN",
+  "brand": "DAYBREAK COFFEE",
+  "eyebrow": "COLD BREW / SAMPLE 01",
+  "title": "把清晨，泡慢一点",
+  "subtitle": "A slower morning starts here.",
+  "badge": "冷萃新品 / NEW",
+  "price": "价格待确认",
+  "cta": "了解新品 / Discover the launch",
+  "benefits": ["适合冰饮", "风味待确认", "规格待确认"],
+  "background": "#f0daba",
+  "accent": "#812b22"
+}
